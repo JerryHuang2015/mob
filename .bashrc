@@ -1,3 +1,9 @@
+#resolve __git problem
+source ~/.git-prompt.sh
+
+# change monitor color
+xgamma -gamma 0.65
+
 #  Customize BASH PS1 prompt to show current GIT repository and branch.
 #  by Mike Stewart - http://MediaDoneRight.com
 
